@@ -1,11 +1,9 @@
 OOP Major Assignment
 Name: Amit Narayan Satpathy
 ID Number: 2021AAPS2127H
-email:f20212127@hyderabad.bits-pilani.ac.in
+email: f20212127@hyderabad.bits-pilani.ac.in
 
 #  Social Media Application — Spring Boot REST API
-
-> A fully functional backend REST API for a Social Media platform, built using **Java** and **Spring Boot**, developed on **IntelliJ IDEA** and tested via **Postman**.
 
 ---
 
